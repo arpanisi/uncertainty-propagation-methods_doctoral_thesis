@@ -1,0 +1,498 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: Chapters/Introduction.aux
+A level-1 auxiliary file: Chapters/UQ.aux
+A level-1 auxiliary file: Chapters/WCS.aux
+A level-1 auxiliary file: Chapters/SCS.aux
+A level-1 auxiliary file: Chapters/Building.aux
+A level-1 auxiliary file: Chapters/DEM.aux
+A level-1 auxiliary file: Chapters/Conclusion.aux
+The style file: unsrt.bst
+Reallocated field_info (elt_size=4) to 10037 items from 5000.
+Database file #1: root.bib
+Repeated entry---line 334 of file root.bib
+ : @article{lu2010cluster
+ :                       ,
+I'm skipping whatever remains of this entry
+Database file #2: root_2.bib
+Repeated entry---line 24 of file root_2.bib
+ : @article{mirollo1990synchronization
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 68 of file root_2.bib
+ : @article{van1920theory
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 78 of file root_2.bib
+ : @article{heagy1994synchronous
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 128 of file root_2.bib
+ : @book{martynyuk2012weakly
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 143 of file root_2.bib
+ : @article{silver1967multiple
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 154 of file root_2.bib
+ : @article{lee1999learning
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 166 of file root_2.bib
+ : @article{psorakis2011overlapping
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 205 of file root_2.bib
+ : @incollection{schmidt2009bayesian
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 278 of file root_2.bib
+ : @article{rossler1976equation
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 296 of file root_2.bib
+ : @book{fishman1996monte
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 305 of file root_2.bib
+ : @inproceedings{julier1997new
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 316 of file root_2.bib
+ : @article{melchers1989importance
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 370 of file root_2.bib
+ : @book{stroud1966gaussian
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 379 of file root_2.bib
+ : @article{xiu2002wiener
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 390 of file root_2.bib
+ : @article{wang2011two
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 412 of file root_2.bib
+ : @article{rossler1976equation
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 423 of file root_2.bib
+ : @incollection{georgiou1992linear
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 465 of file root_2.bib
+ : @article{de2012efficient
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 487 of file root_2.bib
+ : @article{krack2013reduced
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 498 of file root_2.bib
+ : @article{matthies2003nonlinear
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 509 of file root_2.bib
+ : @article{carlberg2013gnat
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 539 of file root_2.bib
+ : @article{arasaratnam2009cubature
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 566 of file root_2.bib
+ : @article{Katok1995
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 575 of file root_2.bib
+ : @article{von2007tutorial
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 586 of file root_2.bib
+ : @book{chung1997spectral
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 594 of file root_2.bib
+ : @article{fiedler1973algebraic
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 605 of file root_2.bib
+ : @inproceedings{varigonda2004graph
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 626 of file root_2.bib
+ : @article{wolfowitz1963products
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 637 of file root_2.bib
+ : @article{mohar1991laplacian
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 646 of file root_2.bib
+ : @book{chung1997spectral
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 655 of file root_2.bib
+ : @incollection{dellnitz2003congestion
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 664 of file root_2.bib
+ : @book{bollobas1982graph
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 674 of file root_2.bib
+ : @article{merris1994laplacian
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 711 of file root_2.bib
+ : @book{fishman1996monte
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 720 of file root_2.bib
+ : @inproceedings{julier1997new
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 731 of file root_2.bib
+ : @article{melchers1989importance
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 742 of file root_2.bib
+ : @book{stroud1966gaussian
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 751 of file root_2.bib
+ : @article{xiu2002wiener
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 771 of file root_2.bib
+ : @article{arasaratnam2009cubature
+ :                                 ,
+I'm skipping whatever remains of this entry
+Database file #3: AllRefs.bib
+You're missing a field name---line 635 of file AllRefs.bib
+ :   
+ :   %adsurl = {http://adsabs.harvard.edu/abs/1997BAMS...78.2577E},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 723 of file AllRefs.bib
+ :   
+ :   %doi = {10.1016/S0167-2789(99)00102-5},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 821 of file AllRefs.bib
+ :   
+ :   %doi = {10.1016/j.ress.2005.11.017},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 987 of file AllRefs.bib
+ :   
+ :   %adsurl = {http://adsabs.harvard.edu/abs/2006FlDyR..38..616K},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1338 of file AllRefs.bib
+ :   
+ :   %citeulike-article-id = {3463694},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1578 of file AllRefs.bib
+ :   
+ :   %adsurl = {http://adsabs.harvard.edu/abs/2005PApGe.162.1893R},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1606 of file AllRefs.bib
+ :   
+ :   %doi = {10.1016/S0010-2180(02)00503-5},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2041 of file AllRefs.bib
+ : 
+ : %  doi = {http://dx.doi.org/10.1137/S1064827501387826},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2078 of file AllRefs.bib
+ : 
+ : %  timestamp = {2007.12.18}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2168 of file AllRefs.bib
+ :  
+ :  %doi = {http://dx.doi.org/10.1016/j.envsoft.2008.12.005},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2192 of file AllRefs.bib
+ :  
+ :  %url = "http://www.ingentaconnect.com/content/bpl/risk/2001/00000021/00000004/art00009"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2204 of file AllRefs.bib
+ : 
+ : %doi = {10.1017/S0956792508007328},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2240 of file AllRefs.bib
+ : 
+ : %      doi = {10.2514/3.48671},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2907 of file AllRefs.bib
+ :   
+ :   YEAR =         {2007}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3329 of file AllRefs.bib
+ :   journal = "Automatica"
+ :                         .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4248 of file AllRefs.bib
+ :   
+ :   SERIES =        {Selected Work of A.~N.~Kolmogorov},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4260 of file AllRefs.bib
+ :   
+ :   SERIES =        {Selected Work of A.~N.~Kolmogorov},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 4881 of file AllRefs.bib
+ : 
+ : %  doi = {http://dx.doi.org/10.1137/S1064827501387826},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 5862 of file AllRefs.bib
+ :    
+ :    %  publisher = {Society for Industrial and Applied Mathematics},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 5984 of file AllRefs.bib
+ : 
+ : %pages = { xiv, 376 p. },
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 6731 of file AllRefs.bib
+ :     @article{Cools1
+ :                    ,
+I'm skipping whatever remains of this entry
+"{" immediately follows a field part---line 6797 of file AllRefs.bib
+ : pages = [
+ :          {285--313},
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 6925 of file AllRefs.bib
+ : 
+ : booktitle = {DSTO, Edinburgh, South Australia 2003}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 7355 of file AllRefs.bib
+ :   
+ :   YEAR =         {2007}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 7764 of file AllRefs.bib
+ :   journal = "Automatica"
+ :                         .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 8101 of file AllRefs.bib
+ : 
+ : timestamp = {2008.02.26}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 8163 of file AllRefs.bib
+ :   
+ :   owner = {G.~Terejanu},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 8172 of file AllRefs.bib
+ :   
+ :   owner = {G.~Terejanu},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 8742 of file AllRefs.bib
+ :   
+ :   SERIES =        {Selected Work of A.~N.~Kolmogorov},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 8754 of file AllRefs.bib
+ :   
+ :   SERIES =        {Selected Work of A.~N.~Kolmogorov},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field part---line 8881 of file AllRefs.bib
+ : month = 
+ :         ''Oct."',
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 9271 of file AllRefs.bib
+ : 
+ : month =      {June},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 9277 of file AllRefs.bib
+ :     
+ :     %type     = "diploma thesis",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 10565 of file AllRefs.bib
+ : 
+ : (re Hills Volcano, Montserrat
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 10783 of file AllRefs.bib
+ :   
+ :   YEAR =         {2007}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 11188 of file AllRefs.bib
+ :   journal = "Automatica"
+ :                         .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 11572 of file AllRefs.bib
+ :   
+ :   owner = {G.~Terejanu},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 11581 of file AllRefs.bib
+ :   
+ :   owner = {G.~Terejanu},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 12151 of file AllRefs.bib
+ :   
+ :   SERIES =        {Selected Work of A.~N.~Kolmogorov},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 12163 of file AllRefs.bib
+ :   
+ :   SERIES =        {Selected Work of A.~N.~Kolmogorov},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field part---line 12290 of file AllRefs.bib
+ : month = 
+ :         ''Oct."',
+I'm skipping whatever remains of this entry
+Database file #4: jbs.bib
+Repeated entry---line 66 of file jbs.bib
+ : @inproceedings{mukherjee2015laplacian
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 257 of file jbs.bib
+ : @article{o2010model
+ :                    ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "EPlus" isn't style-file defined
+--line 385 of file jbs.bib
+Warning--entry type for "trace" isn't style-file defined
+--line 393 of file jbs.bib
+Warning--entry type for "HAP" isn't style-file defined
+--line 401 of file jbs.bib
+Repeated entry---line 436 of file jbs.bib
+ : @book{marion1995user
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 489 of file jbs.bib
+ : @inproceedings{oldewurtel2010energy
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 632 of file jbs.bib
+ : @article{kavgic2015application
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 643 of file jbs.bib
+ : @article{maasoumy2014handling
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 653 of file jbs.bib
+ : @article{rodriguez2013uncertainties
+ :                                    ,
+I'm skipping whatever remains of this entry
+Database file #5: dem.bib
+Repeated entry---line 19 of file dem.bib
+ : @article{kim2013building
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 59 of file dem.bib
+ : @inproceedings{benson2015tensor
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 323 of file dem.bib
+ : @article{blondel2008fast
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 455 of file dem.bib
+ : @article{Mukherjee_2017
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 473 of file dem.bib
+ : @article{banaszuk2011scalable
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 492 of file dem.bib
+ : @article{kalman1960new
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 502 of file dem.bib
+ : @inproceedings{mukherjee2015non
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 511 of file dem.bib
+ : @inproceedings{mukherjee2015laplacian
+ :                                      ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in weathermap
+Warning--empty journal in stroud1971approximate
+Warning--there's a number but no volume in geman1984stochastic
+Warning--can't use both volume and number fields in julier1997new
+Warning--empty journal in Katok1995
+Warning--empty year in mukherjeecomparison
+Warning--empty journal in statedirect
+Warning--empty journal in nyspublic
+Warning--empty journal in perera2014modeling
+Warning--empty journal in council2015international
+Warning--empty journal in siemens2013catalog
+Warning--empty year in thouret114surono
+Warning--empty journal in oksanen2006digital
+Warning--can't use both volume and number fields in stefanescu2012digital
+Warning--empty year in Mukherjee_2017overlap
+You've used 219 entries,
+            1791 wiz_defined-function locations,
+            1612 strings with 41436 characters,
+and the built_in function-call counts, 52148 in all, are:
+= -- 4848
+> -- 2146
+< -- 37
++ -- 810
+- -- 591
+* -- 3584
+:= -- 8070
+add.period$ -- 670
+call.type$ -- 219
+change.case$ -- 193
+chr.to.int$ -- 0
+cite$ -- 234
+duplicate$ -- 2264
+empty$ -- 5136
+format.name$ -- 591
+if$ -- 11629
+int.to.chr$ -- 0
+int.to.str$ -- 219
+missing$ -- 222
+newline$ -- 1084
+num.names$ -- 218
+pop$ -- 600
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1069
+stack$ -- 0
+substring$ -- 4034
+swap$ -- 512
+text.length$ -- 37
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 15
+while$ -- 542
+width$ -- 222
+write$ -- 2351
+(There were 96 error messages)

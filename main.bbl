@@ -1,0 +1,1293 @@
+\begin{thebibliography}{100}
+
+\bibitem{weathermap}
+National Oceanic and Atmospheric Administration.
+\newblock National weather service.
+\newblock 2018.
+
+\bibitem{hale1997diffusive}
+Jack~K Hale.
+\newblock Diffusive coupling, dissipation, and synchronization.
+\newblock {\em Journal of Dynamics and Differential Equations}, 9(1):1--52,
+  1997.
+
+\bibitem{afraimovich1997synchronization}
+VS~Afraimovich, S-N Chow, and JK~Hale.
+\newblock Synchronization in lattices of coupled oscillators.
+\newblock {\em Physica D: Nonlinear Phenomena}, 103(1):442--451, 1997.
+
+\bibitem{fujisaka1983stability}
+Hirokazu Fujisaka and Tomoji Yamada.
+\newblock Stability theory of synchronized motion in coupled-oscillator
+  systems.
+\newblock {\em Progress of Theoretical Physics}, 69(1):32--47, 1983.
+
+\bibitem{martynyuk2012weakly}
+Anatoly Martynyuk, Larisa Chernetskaya, and Vladislav Martynyuk.
+\newblock {\em Weakly connected nonlinear systems: boundedness and stability of
+  motion}.
+\newblock CRC Press, 2012.
+
+\bibitem{silver1967multiple}
+AH~Silver and JE~Zimmerman.
+\newblock Multiple quantum resonance spectroscopy through weakly connected
+  superconductors.
+\newblock {\em Applied Physics Letters}, 10(5):142--145, 1967.
+
+\bibitem{belykh1993chaotic}
+VN~Belykh, NN~Verichev, LJ~Kocarev, and Leon~O Chua.
+\newblock On chaotic synchronization in a linear array of chua's circuits.
+\newblock {\em Journal of circuits, systems, and computers}, 3(02):579--589,
+  1993.
+
+\bibitem{ji2012adaptive}
+DH~Ji, SC~Jeong, Ju~H Park, Sang-Moon Lee, and SC~Won.
+\newblock Adaptive lag synchronization for uncertain complex dynamical network
+  with delayed coupling.
+\newblock {\em Applied Mathematics and Computation}, 218(9):4872--4880, 2012.
+
+\bibitem{georgiou2015multi}
+Ioannis~T Georgiou and Francesco Romeo.
+\newblock Multi-physics dynamics of a mechanical oscillator coupled to an
+  electro-magnetic circuit.
+\newblock {\em International Journal of Non-Linear Mechanics}, 70:153--164,
+  2015.
+
+\bibitem{winfree1967biological}
+Arthur~T Winfree.
+\newblock Biological rhythms and the behavior of populations of coupled
+  oscillators.
+\newblock {\em Journal of theoretical biology}, 16(1):15--42, 1967.
+
+\bibitem{cohen1982nature}
+Avis~H Cohen, Philip~J Holmes, and Richard~H Rand.
+\newblock The nature of the coupling between segmental oscillators of the
+  lamprey spinal generator for locomotion: a mathematical model.
+\newblock {\em Journal of mathematical biology}, 13(3):345--369, 1982.
+
+\bibitem{kopell1986symmetry}
+Nancy Kopell and GB~Ermentrout.
+\newblock Symmetry and phaselocking in chains of weakly coupled oscillators.
+\newblock {\em Communications on Pure and Applied Mathematics}, 39(5):623--660,
+  1986.
+
+\bibitem{mirollo1990synchronization}
+Renato~E Mirollo and Steven~H Strogatz.
+\newblock Synchronization of pulse-coupled biological oscillators.
+\newblock {\em SIAM Journal on Applied Mathematics}, 50(6):1645--1662, 1990.
+
+\bibitem{ermentrout1998minimal}
+Bard Ermentrout, Jorge Flores, and Alan Gelperin.
+\newblock Minimal model of oscillations and waves in the limax olfactory lobe
+  with tests of the model's predictive power.
+\newblock {\em Journal of neurophysiology}, 79(5):2677--2689, 1998.
+
+\bibitem{winful1988stability}
+HG~Winful and SS~Wang.
+\newblock Stability of phase locking in coupled semiconductor laser arrays.
+\newblock {\em Applied physics letters}, 53:1894--1896, 1988.
+
+\bibitem{li1992preferential}
+Ruo-ding Li and Thomas Erneux.
+\newblock Preferential instability in arrays of coupled lasers.
+\newblock {\em Physical Review A}, 46(7):4252, 1992.
+
+\bibitem{wang2011two}
+Zhu Wang, Imran Akhtar, Jeff Borggaard, and Traian Iliescu.
+\newblock Two-level discretizations of nonlinear closure models for proper
+  orthogonal decomposition.
+\newblock {\em Journal of Computational Physics}, 230(1):126--146, 2011.
+
+\bibitem{carlberg2013gnat}
+Kevin Carlberg, Charbel Farhat, Julien Cortial, and David Amsallem.
+\newblock The gnat method for nonlinear model reduction: effective
+  implementation and application to computational fluid dynamics and turbulent
+  flows.
+\newblock {\em Journal of Computational Physics}, 242:623--647, 2013.
+
+\bibitem{matthies2003nonlinear}
+Hermann~G Matthies and Marcus Meyer.
+\newblock Nonlinear galerkin methods for the model reduction of nonlinear
+  dynamical systems.
+\newblock {\em Computers \& structures}, 81(12):1277--1286, 2003.
+
+\bibitem{krack2013reduced}
+Malte Krack, Lars Panning-von Scheidt, J{\"o}rg Wallaschek, Christian Siewert,
+  and Andreas Hartung.
+\newblock Reduced order modeling based on complex nonlinear modal analysis and
+  its application to bladed disks with shroud contact.
+\newblock {\em Journal of Engineering for Gas Turbines and Power},
+  135(10):102502, 2013.
+
+\bibitem{xiu2002wiener}
+Dongbin Xiu and George~Em Karniadakis.
+\newblock The wiener--askey polynomial chaos for stochastic differential
+  equations.
+\newblock {\em SIAM Journal on Scientific Computing}, 24(2):619--644, 2002.
+
+\bibitem{fletcher1984computational}
+Clive~AJ Fletcher.
+\newblock Computational galerkin methods.
+\newblock In {\em Computational Galerkin Methods}, pages 72--85. Springer,
+  1984.
+
+\bibitem{fishman1996monte}
+George~S Fishman.
+\newblock {\em {Monte carlo: concepts, algorithms, and applications}}.
+\newblock Springer Series in Operations Research. Springer, New York, 1996.
+
+\bibitem{stroud1971approximate}
+Arthur~H Stroud.
+\newblock Approximate calculation of multiple integrals.
+\newblock 1971.
+
+\bibitem{matsumoto1998mersenne}
+Makoto Matsumoto and Takuji Nishimura.
+\newblock Mersenne twister: a 623-dimensionally equidistributed uniform
+  pseudo-random number generator.
+\newblock {\em ACM Transactions on Modeling and Computer Simulation (TOMACS)},
+  8(1):3--30, 1998.
+
+\bibitem{marsaglia1972structure}
+George Marsaglia.
+\newblock The structure of linear congruential sequences.
+\newblock In {\em Applications of number theory to numerical analysis}, pages
+  249--285. Elsevier, 1972.
+
+\bibitem{marsaglia1990toward}
+George Marsaglia, Arif Zaman, and Wai~Wan Tsang.
+\newblock Toward a universal random number generator.
+\newblock {\em Statistics \& Probability Letters}, 9(1):35--39, 1990.
+
+\bibitem{halton1960efficiency}
+John~H Halton.
+\newblock On the efficiency of certain quasi-random sequences of points in
+  evaluating multi-dimensional integrals.
+\newblock {\em Numerische Mathematik}, 2(1):84--90, 1960.
+
+\bibitem{hammersley2013monte}
+John Hammersley.
+\newblock {\em Monte carlo methods}.
+\newblock Springer Science \& Business Media, 2013.
+
+\bibitem{bratley1988algorithm}
+Paul Bratley and Bennett~L Fox.
+\newblock Algorithm 659: Implementing sobol's quasirandom sequence generator.
+\newblock {\em ACM Transactions on Mathematical Software (TOMS)},
+  14(1):88--100, 1988.
+
+\bibitem{der1935verteilungsfunktionen}
+JV~der Corput.
+\newblock Verteilungsfunktionen. i. mitt.
+\newblock In {\em Proc. Akad. Wet. Amsterdam}, volume~38, pages 813--821, 1935.
+
+\bibitem{iman2008latin}
+Ronald~L Iman.
+\newblock {\em Latin hypercube sampling}.
+\newblock Wiley Online Library, 2008.
+
+\bibitem{hastings1970monte}
+W~Keith Hastings.
+\newblock Monte carlo sampling methods using markov chains and their
+  applications.
+\newblock {\em Biometrika}, 57(1):97--109, 1970.
+
+\bibitem{geman1984stochastic}
+Stuart Geman and Donald Geman.
+\newblock Stochastic relaxation, gibbs distributions, and the bayesian
+  restoration of images.
+\newblock {\em IEEE Transactions on pattern analysis and machine intelligence},
+  (6):721--741, 1984.
+
+\bibitem{duane1987hybrid}
+Simon Duane, Anthony~D Kennedy, Brian~J Pendleton, and Duncan Roweth.
+\newblock Hybrid monte carlo.
+\newblock {\em Physics letters B}, 195(2):216--222, 1987.
+
+\bibitem{melchers1989importance}
+RE~Melchers.
+\newblock Importance sampling in structural systems.
+\newblock {\em Structural safety}, 6(1):3--10, 1989.
+
+\bibitem{stroud1966gaussian}
+Arthur~H Stroud and Don Secrest.
+\newblock {\em {Gaussian quadrature formulas}}.
+\newblock Prentice-Hall series in automatic computation. Prentice-Hall,
+  Englewood Cliffs, NJ, 1966.
+
+\bibitem{press2007numerical}
+William~H Press.
+\newblock {\em Numerical recipes 3rd edition: The art of scientific computing}.
+\newblock Cambridge university press, 2007.
+
+\bibitem{abramowitz1964handbook}
+Milton Abramowitz and Irene~A Stegun.
+\newblock {\em Handbook of mathematical functions: with formulas, graphs, and
+  mathematical tables}, volume~55.
+\newblock Courier Corporation, 1964.
+
+\bibitem{arasaratnam2009cubature}
+Ienkaran Arasaratnam and Simon Haykin.
+\newblock Cubature kalman filters.
+\newblock {\em Automatic Control, IEEE Transactions on}, 54(6):1254--1269,
+  2009.
+
+\bibitem{gerstner1998numerical}
+Thomas Gerstner and Michael Griebel.
+\newblock Numerical integration using sparse grids.
+\newblock {\em Numerical algorithms}, 18(3):209--232, 1998.
+
+\bibitem{cools2003encyclopaedia}
+Ronald Cools.
+\newblock An encyclopaedia of cubature formulas.
+\newblock {\em Journal of complexity}, 19(3):445--453, 2003.
+
+\bibitem{Cools1}
+Ronald Cools.
+\newblock Monomial cubature rules since stroud a compilation part 2.
+\newblock {\em J. Comput. Appl. Math.}, 112(1-2):21--27, nov 1999.
+
+\bibitem{cubatureurl}
+Ronald Cools and Philip Rabinowitz.
+\newblock Encyclopaedia of cubature formulas.
+
+\bibitem{julier1997new}
+Simon~J Julier and Jeffrey~K Uhlmann.
+\newblock A new extension of the kalman filter to nonlinear systems.
+\newblock In {\em Int. symp. aerospace/defense sensing, simul. and controls},
+  volume~3, pages 3--2. Orlando, FL, 1997.
+
+\bibitem{mezic2008uncertainty}
+Igor Mezi{\'c} and Thordur Runolfsson.
+\newblock Uncertainty propagation in dynamical systems.
+\newblock {\em Automatica}, 44(12):3003--3013, 2008.
+
+\bibitem{demars2013entropy}
+Kyle~J DeMars, Robert~H Bishop, and Moriba~K Jah.
+\newblock Entropy-based approach for uncertainty propagation of nonlinear
+  dynamical systems.
+\newblock {\em Journal of Guidance, Control, and Dynamics}, 36(4):1047--1057,
+  2013.
+
+\bibitem{fujimoto2012analytical}
+K~Fujimoto, DJ~Scheeres, and KT~Alfriend.
+\newblock Analytical nonlinear propagation of uncertainty in the two-body
+  problem.
+\newblock {\em Journal of Guidance, Control, and Dynamics}, 35(2):497--509,
+  2012.
+
+\bibitem{callier1976input}
+Frank~M Callier, WS~Chan, and Charles~A DeSoer.
+\newblock Input-output stability theory of interconnected systems using
+  decomposition techniques.
+\newblock {\em Circuits and Systems, IEEE Transactions on}, 23(12):714--729,
+  1976.
+
+\bibitem{georgiou1992linear}
+Tryphon~T Georgiou and Malcolm~C Smith.
+\newblock Linear systems and robustness: a graph point of view.
+\newblock In {\em Robust Control}, pages 114--121. Springer, 1992.
+
+\bibitem{varigonda2004graph}
+Subbarao Varigonda, Tam{\'a}s Kalm{\'a}r-N{\'a}gy, Bob LaBarre, and Igor Mezic.
+\newblock Graph decomposition methods for uncertainty propagation in complex,
+  nonlinear interconnected dynamical systems.
+\newblock In {\em Decision and Control, 2004. CDC. 43rd IEEE Conference on},
+  volume~2, pages 1794--1798. IEEE, 2004.
+
+\bibitem{dellnitz2003congestion}
+Michael Dellnitz and Robert Preis.
+\newblock Congestion and almost invariant sets in dynamical systems.
+\newblock In {\em Symbolic and Numerical Scientific Computation}, pages
+  183--209. Springer, 2003.
+
+\bibitem{surana2012iterative}
+Amit Surana, Tuhin Sahai, and Andrzej Banaszuk.
+\newblock Iterative methods for scalable uncertainty quantification in complex
+  networks.
+\newblock {\em International Journal for Uncertainty Quantification}, 2(4),
+  2012.
+
+\bibitem{de2012efficient}
+Miguel~Fosas De~Pando, Denis Sipp, and Peter~J Schmid.
+\newblock Efficient evaluation of the direct and adjoint linearized dynamics
+  from compressible flow solvers.
+\newblock {\em Journal of Computational Physics}, 231(23):7739--7755, 2012.
+
+\bibitem{carbonell2007numerical}
+Felix Carbonell, Rolando~J Biscay, Juan~C Jim{\'e}nez, and Hugo de~la Cruz.
+\newblock Numerical simulation of nonlinear dynamical systems driven by
+  commutative noise.
+\newblock {\em Journal of Computational Physics}, 226(2):1219--1233, 2007.
+
+\bibitem{he2011enhanced}
+Jincong He, J~S{\ae}trom, and Louis~J Durlofsky.
+\newblock Enhanced linearized reduced-order models for subsurface flow
+  simulation.
+\newblock {\em Journal of Computational Physics}, 230(23):8313--8341, 2011.
+
+\bibitem{guardone2002roe}
+A~Guardone and L~Vigevano.
+\newblock Roe linearization for the van der waals gas.
+\newblock {\em Journal of Computational Physics}, 175(1):50--78, 2002.
+
+\bibitem{steeb1980non}
+W-H Steeb and F~Wilhelm.
+\newblock Non-linear autonomous systems of differential equations and carleman
+  linearization procedure.
+\newblock {\em Journal of Mathematical Analysis and Applications},
+  77(2):601--611, 1980.
+
+\bibitem{roberts1986stochastic}
+JB~Roberts and PD~Spanos.
+\newblock Stochastic averaging: an approximate method of solving random
+  vibration problems.
+\newblock {\em International Journal of Non-Linear Mechanics}, 21(2):111--134,
+  1986.
+
+\bibitem{Katok1995}
+Anatole Katok and Boris Hasselblatt.
+\newblock {Introduction to the modern theory of dynamical systems}.
+\newblock 1995.
+
+\bibitem{tryon1939cluster}
+Robert~Choate Tryon.
+\newblock {\em Cluster analysis: correlation profile and orthometric (factor)
+  analysis for the isolation of unities in mind and personality}.
+\newblock Edwards brother, Incorporated, lithoprinters and publishers, 1939.
+
+\bibitem{eisen1998cluster}
+Michael~B Eisen, Paul~T Spellman, Patrick~O Brown, and David Botstein.
+\newblock Cluster analysis and display of genome-wide expression patterns.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  95(25):14863--14868, 1998.
+
+\bibitem{sturn2002genesis}
+Alexander Sturn, John Quackenbush, and Zlatko Trajanoski.
+\newblock Genesis: cluster analysis of microarray data.
+\newblock {\em Bioinformatics}, 18(1):207--208, 2002.
+
+\bibitem{bishop2006pattern}
+Christopher~M Bishop.
+\newblock {\em Pattern recognition and machine learning}.
+\newblock springer, 2006.
+
+\bibitem{baraldi1999survey}
+Andrea Baraldi and Palma Blonda.
+\newblock A survey of fuzzy clustering algorithms for pattern recognition. i.
+\newblock {\em Systems, Man, and Cybernetics, Part B: Cybernetics, IEEE
+  Transactions on}, 29(6):778--785, 1999.
+
+\bibitem{lancichinetti2008benchmark}
+Andrea Lancichinetti, Santo Fortunato, and Filippo Radicchi.
+\newblock Benchmark graphs for testing community detection algorithms.
+\newblock {\em Physical review E}, 78(4):046110, 2008.
+
+\bibitem{cormack1971review}
+Richard~M Cormack.
+\newblock A review of classification.
+\newblock {\em Journal of the Royal Statistical Society. Series A (General)},
+  pages 321--367, 1971.
+
+\bibitem{everitt1972cluster}
+BS~Everitt.
+\newblock Cluster analysis: A brief discussion of some of the problems.
+\newblock {\em The British Journal of Psychiatry}, 120(555):143--145, 1972.
+
+\bibitem{jain1988algorithms}
+Anil~K Jain and Richard~C Dubes.
+\newblock {\em Algorithms for clustering data}.
+\newblock Prentice-Hall, Inc., 1988.
+
+\bibitem{jain1999data}
+Anil~K Jain, M~Narasimha Murty, and Patrick~J Flynn.
+\newblock Data clustering: a review.
+\newblock {\em ACM computing surveys (CSUR)}, 31(3):264--323, 1999.
+
+\bibitem{calinski1974dendrite}
+Tadeusz Cali{\'n}ski and Jerzy Harabasz.
+\newblock A dendrite method for cluster analysis.
+\newblock {\em Communications in Statistics-theory and Methods}, 3(1):1--27,
+  1974.
+
+\bibitem{kaneko1990clustering}
+Kunihiko Kaneko.
+\newblock Clustering, coding, switching, hierarchical ordering, and control in
+  a network of chaotic elements.
+\newblock {\em Physica D: Nonlinear Phenomena}, 41(2):137--172, 1990.
+
+\bibitem{kaneko1990globally}
+Kunihiko Kaneko.
+\newblock Globally coupled chaos violates the law of large numbers but not the
+  central-limit theorem.
+\newblock {\em Physical review letters}, 65(12):1391, 1990.
+
+\bibitem{lu2010cluster}
+Wenlian Lu, Bo~Liu, and Tianping Chen.
+\newblock Cluster synchronization in networks of coupled nonidentical dynamical
+  systems.
+\newblock {\em Chaos: An Interdisciplinary Journal of Nonlinear Science},
+  20(1):013120, 2010.
+
+\bibitem{xia2011clustering}
+Weiguo Xia and Ming Cao.
+\newblock Clustering in diffusively coupled networks.
+\newblock {\em Automatica}, 47(11):2395--2405, 2011.
+
+\bibitem{sorrentino2015complete}
+Francesco Sorrentino, Louis~M Pecora, Aaron~M Hagerstrom, Thomas~E Murphy, and
+  Rajarshi Roy.
+\newblock Complete characterization of cluster synchronization in
+  laplacian-coupled systems.
+\newblock {\em arXiv preprint arXiv:1507.04381}, 2015.
+
+\bibitem{fiedler1973algebraic}
+Miroslav Fiedler.
+\newblock Algebraic connectivity of graphs.
+\newblock {\em Czechoslovak Mathematical Journal}, 23(2):298--305, 1973.
+
+\bibitem{fiedler1975property}
+Miroslav Fiedler.
+\newblock A property of eigenvectors of nonnegative symmetric matrices and its
+  application to graph theory.
+\newblock {\em Czechoslovak Mathematical Journal}, 25(4):619--633, 1975.
+
+\bibitem{wolfowitz1963products}
+Jacob Wolfowitz.
+\newblock Products of indecomposable, aperiodic, stochastic matrices.
+\newblock {\em Proceedings of the American Mathematical Society},
+  14(5):733--737, 1963.
+
+\bibitem{von2007tutorial}
+Ulrike Von~Luxburg.
+\newblock A tutorial on spectral clustering.
+\newblock {\em Statistics and computing}, 17(4):395--416, 2007.
+
+\bibitem{merris1994laplacian}
+Russell Merris.
+\newblock Laplacian matrices of graphs: a survey.
+\newblock {\em Linear algebra and its applications}, 197:143--176, 1994.
+
+\bibitem{mohar1991laplacian}
+Bojan Mohar and Y~Alavi.
+\newblock The laplacian spectrum of graphs.
+\newblock {\em Graph theory, combinatorics, and applications}, 2:871--898,
+  1991.
+
+\bibitem{bollobas1982graph}
+B{\'e}la Bollob{\'a}s.
+\newblock {\em {Advances in graph theory: annals of discrete mathematics}}.
+\newblock Annals of Discrete Mathematics. North-Holland, Amsterdam, 1978.
+
+\bibitem{chung1997spectral}
+Fan~RK Chung.
+\newblock {\em Spectral graph theory}, volume~92.
+\newblock American Mathematical Soc., 1997.
+
+\bibitem{shi2000normalized}
+Jianbo Shi and Jitendra Malik.
+\newblock Normalized cuts and image segmentation.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 22(8):888--905, 2000.
+
+\bibitem{salvador2004determining}
+Stan Salvador and Philip Chan.
+\newblock Determining the number of clusters/segments in hierarchical
+  clustering/segmentation algorithms.
+\newblock In {\em Tools with Artificial Intelligence, 2004. ICTAI 2004. 16th
+  IEEE International Conference on}, pages 576--584. IEEE, 2004.
+
+\bibitem{paatero1994positive}
+Pentti Paatero and Unto Tapper.
+\newblock Positive matrix factorization: A non-negative factor model with
+  optimal utilization of error estimates of data values.
+\newblock {\em Environmetrics}, 5(2):111--126, 1994.
+
+\bibitem{lee1999learning}
+Daniel~D Lee and H~Sebastian Seung.
+\newblock Learning the parts of objects by non-negative matrix factorization.
+\newblock {\em Nature}, 401(6755):788--791, 1999.
+
+\bibitem{ding2005equivalence}
+Chris~HQ Ding, Xiaofeng He, and Horst~D Simon.
+\newblock On the equivalence of nonnegative matrix factorization and spectral
+  clustering.
+\newblock In {\em SDM}, volume~5, pages 606--610. SIAM, 2005.
+
+\bibitem{wang2011community}
+Fei Wang, Tao Li, Xin Wang, Shenghuo Zhu, and Chris Ding.
+\newblock Community discovery using nonnegative matrix factorization.
+\newblock {\em Data Mining and Knowledge Discovery}, 22(3):493--521, 2011.
+
+\bibitem{zass2005unifying}
+Ron Zass and Amnon Shashua.
+\newblock A unifying approach to hard and probabilistic clustering.
+\newblock In {\em Computer Vision, 2005. ICCV 2005. Tenth IEEE International
+  Conference on}, volume~1, pages 294--301. IEEE, 2005.
+
+\bibitem{virtanen2008bayesian}
+Tuomas Virtanen, Ali~Taylan Cemgil, and Simon Godsill.
+\newblock Bayesian extensions to non-negative matrix factorisation for audio
+  signal modelling.
+\newblock In {\em Acoustics, Speech and Signal Processing, 2008. ICASSP 2008.
+  IEEE International Conference on}, pages 1825--1828. IEEE, 2008.
+
+\bibitem{schmidt2009bayesian}
+Mikkel~N Schmidt, Ole Winther, and Lars~Kai Hansen.
+\newblock Bayesian non-negative matrix factorization.
+\newblock In {\em Independent Component Analysis and Signal Separation}, pages
+  540--547. Springer, 2009.
+
+\bibitem{psorakis2011overlapping}
+Ioannis Psorakis, Stephen Roberts, Mark Ebden, and Ben Sheldon.
+\newblock Overlapping community detection using bayesian non-negative matrix
+  factorization.
+\newblock {\em Physical Review E}, 83(6):066114, 2011.
+
+\bibitem{van1920theory}
+B~Van~der Pol.
+\newblock A theory of the amplitude of free and forced triode vibrations.
+\newblock {\em Radio Review}, 1(1920):701--710, 1920.
+
+\bibitem{lorenz1963deterministic}
+Edward~N Lorenz.
+\newblock Deterministic nonperiodic flow.
+\newblock {\em Journal of the atmospheric sciences}, 20(2):130--141, 1963.
+
+\bibitem{mukherjee2015laplacian}
+Arpan Mukherjee, Rahul Rai, Puneet Singla, Tarunraj Singh, and Abani Patra.
+\newblock Laplacian graph based approach for uncertainty quantification of
+  large scale dynamical systems.
+\newblock In {\em American Control Conference (ACC), 2015}, pages 3998--4003.
+  IEEE, 2015.
+
+\bibitem{mukherjeecomparison}
+Arpan Mukherjee, Rahul Rai, Puneet Singla, Tarunraj Singh, and Abani~K Patra.
+\newblock Comparison of linearization and graph clustering methods for
+  uncertainty quantification of large scale dynamical systems.
+\newblock {\em International Journal for Uncertainty Quantification}.
+
+\bibitem{baumes2005finding}
+Jeffrey Baumes, Mark~K Goldberg, Mukkai~S Krishnamoorthy, Malik Magdon-Ismail,
+  and Nathan Preston.
+\newblock Finding communities by clustering a graph into overlapping subgraphs.
+\newblock {\em IADIS AC}, 5:97--104, 2005.
+
+\bibitem{palla2005uncovering}
+Gergely Palla, Imre Der{\'e}nyi, Ill{\'e}s Farkas, and Tam{\'a}s Vicsek.
+\newblock Uncovering the overlapping community structure of complex networks in
+  nature and society.
+\newblock {\em Nature}, 435(7043):814--818, 2005.
+
+\bibitem{lancichinetti2009detecting}
+Andrea Lancichinetti, Santo Fortunato, and J{\'a}nos Kert{\'e}sz.
+\newblock Detecting the overlapping and hierarchical community structure in
+  complex networks.
+\newblock {\em New Journal of Physics}, 11(3):033015, 2009.
+
+\bibitem{havemann2011identification}
+Frank Havemann, Michael Heinz, Alexander Struck, and Jochen Gl{\"a}ser.
+\newblock Identification of overlapping communities and their hierarchy by
+  locally calculating community-changing resolution levels.
+\newblock {\em Journal of Statistical Mechanics: Theory and Experiment},
+  2011(01):P01023, 2011.
+
+\bibitem{farkas2007weighted}
+Ill{\'e}s Farkas, D{\'a}niel {\'A}bel, Gergely Palla, and Tam{\'a}s Vicsek.
+\newblock Weighted network modules.
+\newblock {\em New Journal of Physics}, 9(6):180, 2007.
+
+\bibitem{kumpula2008sequential}
+Jussi~M Kumpula, Mikko Kivel{\"a}, Kimmo Kaski, and Jari Saram{\"a}ki.
+\newblock Sequential algorithm for fast clique percolation.
+\newblock {\em Physical Review E}, 78(2):026109, 2008.
+
+\bibitem{lancichinetti2011finding}
+Andrea Lancichinetti, Filippo Radicchi, Jos{\'e}~J Ramasco, and Santo
+  Fortunato.
+\newblock Finding statistically significant communities in networks.
+\newblock {\em PloS one}, 6(4):e18961, 2011.
+
+\bibitem{shen2009detect}
+Huawei Shen, Xueqi Cheng, Kai Cai, and Mao-Bin Hu.
+\newblock Detect overlapping and hierarchical community structure in networks.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  388(8):1706--1712, 2009.
+
+\bibitem{cazabet2010detection}
+Remy Cazabet, Fr{\'e}d{\'e}ric Amblard, and Chihab Hanachi.
+\newblock Detection of overlapping communities in dynamical social networks.
+\newblock In {\em Social Computing (SocialCom), 2010 IEEE Second International
+  Conference on}, pages 309--314. IEEE, 2010.
+
+\bibitem{padrol2010overlapping}
+Arnau Padrol-Sureda, Guillem Perarnau-Llobet, Julian Pfeifle, and Victor
+  Munt{\'e}s-Mulero.
+\newblock Overlapping community search for social networks.
+\newblock In {\em 2010 IEEE 26th International Conference on Data Engineering
+  (ICDE 2010)}, pages 992--995. IEEE, 2010.
+
+\bibitem{dunn1974well}
+Joseph~C Dunn†.
+\newblock Well-separated clusters and optimal fuzzy partitions.
+\newblock {\em Journal of cybernetics}, 4(1):95--104, 1974.
+
+\bibitem{zhang2007identification}
+Shihua Zhang, Rui-Sheng Wang, and Xiang-Sun Zhang.
+\newblock Identification of overlapping community structure in complex networks
+  using fuzzy c-means clustering.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  374(1):483--490, 2007.
+
+\bibitem{magdon2011ssde}
+Malik Magdon-Ismail and Jonathan Purnell.
+\newblock Ssde-cluster: Fast overlapping clustering of networks using sampled
+  spectral distance embedding and gmms.
+\newblock In {\em Privacy, Security, Risk and Trust (PASSAT) and 2011 IEEE
+  Third Inernational Conference on Social Computing (SocialCom), 2011 IEEE
+  Third International Conference on}, pages 756--759. IEEE, 2011.
+
+\bibitem{latouche2011overlapping}
+Pierre Latouche, Etienne Birmel{\'e}, and Christophe Ambroise.
+\newblock Overlapping stochastic block models with application to the french
+  political blogosphere.
+\newblock {\em The Annals of Applied Statistics}, pages 309--336, 2011.
+
+\bibitem{rossler1976equation}
+Otto~E R{\"o}ssler.
+\newblock An equation for continuous chaos.
+\newblock {\em Physics Letters A}, 57(5):397--398, 1976.
+
+\bibitem{heagy1994synchronous}
+JF~Heagy, TL~Carroll, and LM~Pecora.
+\newblock Synchronous chaos in coupled oscillator systems.
+\newblock {\em Physical Review E}, 50(3):1874, 1994.
+
+\bibitem{verlaan1998cient}
+Martinus Verlaan.
+\newblock {\em Efficient Kalman filtering algorithms for hydrodynamic models}.
+\newblock PhD thesis, PhD thesis, Delft University of Technology, 1998.
+
+\bibitem{leendertse1967aspects}
+Jan~J Leendertse.
+\newblock {\em Aspects of a computational model for long-period water-wave
+  propagation}.
+\newblock PhD thesis, Rand Corporation Santa Monica, 1967.
+
+\bibitem{stelling1983construction}
+Gustaaf~Sjoerd Stelling.
+\newblock {\em On the construction of computational methods for shallow water
+  flow problems}.
+\newblock PhD thesis, TU Delft, Delft University of Technology, 1983.
+
+\bibitem{wesseling2009principles}
+Pieter Wesseling.
+\newblock {\em Principles of computational fluid dynamics}, volume~29.
+\newblock Springer Science \& Business Media, 2009.
+
+\bibitem{charney1950numerical}
+Jules~G Charney, Ragnar Fj{\"o}rtoft, and J~von Neumann.
+\newblock Numerical integration of the barotropic vorticity equation.
+\newblock {\em Tellus}, 2(4):237--254, 1950.
+
+\bibitem{ghanem2003stochastic}
+Roger~G Ghanem and Pol~D Spanos.
+\newblock {\em Stochastic finite elements: a spectral approach}.
+\newblock Courier Corporation, 2003.
+
+\bibitem{useia2017}
+U.S. Energy~Information Administration.
+\newblock Energy consumption estimates by sector, 2017.
+
+\bibitem{useia2009}
+U.S. Energy~Information Administration.
+\newblock Emissions of greenhouse gases in the united states 2009, 2011.
+
+\bibitem{statedirect}
+New~York State.
+\newblock Directing state agencies and authorities to improve the energy
+  efficiency of state buildings.
+\newblock 2010.
+
+\bibitem{nyspublic}
+New York State~Department of~Public~Service.
+\newblock System benefits charge.
+\newblock 2011.
+
+\bibitem{Eplus}
+{U.S Department of Energy}.
+\newblock Energyplus, 2014.
+
+\bibitem{hirsch2006equest}
+James~J Hirsch et~al.
+\newblock equest, the quick energy simulation tool.
+\newblock {\em DOE2. com}, 2006.
+
+\bibitem{trace}
+{TRANE}.
+\newblock Trace 700, 2017.
+
+\bibitem{HAP}
+Carrier.
+\newblock Hap, 2017.
+
+\bibitem{ding2015uncertainty}
+Yinchun Ding, Yang Shen, Jianguo Wang, and Xing Shi.
+\newblock Uncertainty sources and calculation approaches for building energy
+  simulation models.
+\newblock {\em Energy Procedia}, 78:2566--2571, 2015.
+
+\bibitem{sun2015quantification}
+Yuming Sun, Heng Su, CF~Jeff Wu, and Godfried Augenbroe.
+\newblock Quantification of model form uncertainty in the calculation of solar
+  diffuse irradiation on inclined surfaces for building energy simulation.
+\newblock {\em Journal of Building Performance Simulation}, 8(4):253--265,
+  2015.
+
+\bibitem{rysanek2013optimum}
+AM~Rysanek and R~Choudhary.
+\newblock Optimum building energy retrofits under technical and economic
+  uncertainty.
+\newblock {\em Energy and Buildings}, 57:324--337, 2013.
+
+\bibitem{eisenhower2012uncertainty}
+Bryan Eisenhower, Zheng O'Neill, Vladimir~A Fonoberov, and Igor Mezi{\'c}.
+\newblock Uncertainty and sensitivity decomposition of building energy models.
+\newblock {\em Journal of Building Performance Simulation}, 5(3):171--184,
+  2012.
+
+\bibitem{vivian2017evaluation}
+Jacopo Vivian, Angelo Zarrella, Giuseppe Emmi, and Michele De~Carli.
+\newblock An evaluation of the suitability of lumped-capacitance models in
+  calculating energy needs and thermal behaviour of buildings.
+\newblock {\em Energy and Buildings}, 2017.
+
+\bibitem{he2016simplified}
+Lei He, Bo~Lei, Haiquan Bi, and Tao Yu.
+\newblock Simplified building thermal model used for optimal control of radiant
+  cooling system.
+\newblock {\em Mathematical Problems in Engineering}, 2016, 2016.
+
+\bibitem{perera2014modeling}
+Degurunnehalage Wathsala~U Perera, Carlos Pfeiffer, and Nils-Olav Skeie.
+\newblock Modeling and simulation of a multi-zone building for better control.
+\newblock 2014.
+
+\bibitem{mukherjee2015non}
+Arpan Mukherjee, Rahul Rai, Puneet Singla, Tarunraj Singh, and Abani Patra.
+\newblock Non-negative matrix factorization based uncertainty quantification
+  method for complex networked systems.
+\newblock In {\em ASME 2015 International Design Engineering Technical
+  Conferences and Computers and Information in Engineering Conference}, pages
+  V02AT03A048--V02AT03A048. American Society of Mechanical Engineers, 2015.
+
+\bibitem{kelman2013analysis}
+Anthony Kelman, Yudong Ma, and Francesco Borrelli.
+\newblock Analysis of local optima in predictive control for energy efficient
+  buildings.
+\newblock {\em Journal of Building Performance Simulation}, 6(3):236--255,
+  2013.
+
+\bibitem{ramallo2013lumped}
+Alfonso~P Ramallo-Gonz{\'a}lez, Matthew~E Eames, and David~A Coley.
+\newblock Lumped parameter models for building thermal modelling: An analytic
+  approach to simplifying complex multi-layered constructions.
+\newblock {\em Energy and Buildings}, 60:174--184, 2013.
+
+\bibitem{vsiroky2011experimental}
+Jan {\v{S}}irok{\`y}, Frauke Oldewurtel, Ji{\v{r}}{\'\i} Cigler, and Samuel
+  Pr{\'\i}vara.
+\newblock Experimental analysis of model predictive control for an energy
+  efficient building heating system.
+\newblock {\em Applied energy}, 88(9):3079--3087, 2011.
+
+\bibitem{li2017development}
+Anbang Li, Yongjun Sun, and Xinhua Xu.
+\newblock Development of a simplified resistance and capacitance (rc)-network
+  model for pipe-embedded concrete radiant floors.
+\newblock {\em Energy and Buildings}, 2017.
+
+\bibitem{jara2016new}
+Enrique {\'A}~Rodr{\'\i}guez Jara, Francisco J~S{\'a}nchez de~la Flor,
+  Servando~{\'A}lvarez Dom{\'\i}nguez, Jos{\'e} L~Molina F{\'e}lix, and
+  Jos{\'e} M~Salmer{\'o}n Liss{\'e}n.
+\newblock A new analytical approach for simplified thermal modelling of
+  buildings: Self-adjusting rc-network model.
+\newblock {\em Energy and Buildings}, 130:85--97, 2016.
+
+\bibitem{underwood2014improved}
+CP~Underwood.
+\newblock An improved lumped parameter method for building thermal modelling.
+\newblock {\em Energy and Buildings}, 79:191--201, 2014.
+
+\bibitem{kircher2015lumped}
+Kevin~J Kircher and K~Max Zhang.
+\newblock On the lumped capacitance approximation accuracy in rc network
+  building models.
+\newblock {\em Energy and Buildings}, 108:454--462, 2015.
+
+\bibitem{wang2006parameter}
+Shengwei Wang and Xinhua Xu.
+\newblock Parameter estimation of internal thermal mass of building dynamic
+  models using genetic algorithm.
+\newblock {\em Energy conversion and management}, 47(13):1927--1941, 2006.
+
+\bibitem{goyal2011identification}
+Siddharth Goyal, Chenda Liao, and Prabir Barooah.
+\newblock Identification of multi-zone building thermal interaction model from
+  data.
+\newblock In {\em Decision and Control and European Control Conference
+  (CDC-ECC), 2011 50th IEEE Conference on}, pages 181--186. IEEE, 2011.
+
+\bibitem{o2010model}
+Zheng O'Neill, Satish Narayanan, and Rohini Brahme.
+\newblock Model-based thermal load estimation in buildings.
+\newblock {\em IBPSA-USA Journal}, 4(1):474--481, 2010.
+
+\bibitem{woloszyn2017treating}
+Monika Woloszyn and Ian Beausoleil-Morrison.
+\newblock Treating uncertainty in building performance simulation, 2017.
+
+\bibitem{nguyen2014review}
+Anh-Tuan Nguyen, Sigrid Reiter, and Philippe Rigo.
+\newblock A review on simulation-based optimization methods applied to building
+  performance analysis.
+\newblock {\em Applied Energy}, 113:1043--1058, 2014.
+
+\bibitem{kavgic2015application}
+Miroslava Kavgic, Alex Summerfield, Dejan Mumovic, and Zarko Stevanovic.
+\newblock Application of a monte carlo model to predict space heating energy
+  use of belgrade's housing stock.
+\newblock {\em Journal of Building Performance Simulation}, 8(6):375--390,
+  2015.
+
+\bibitem{baetens2016modelling}
+Ruben Baetens and Dirk Saelens.
+\newblock Modelling uncertainty in district energy simulations by stochastic
+  residential occupant behaviour.
+\newblock {\em Journal of Building Performance Simulation}, 9(4):431--447,
+  2016.
+
+\bibitem{rodriguez2013uncertainties}
+Gloria~Calleja Rodr{\'\i}guez, Antonio~Carrillo Andr{\'e}s,
+  Fernando~Dom{\'\i}nguez Mu{\~n}oz, Jos{\'e} Manuel~Cejudo L{\'o}pez, and
+  Yi~Zhang.
+\newblock Uncertainties and sensitivity analysis in building energy simulation
+  using macroparameters.
+\newblock {\em Energy and Buildings}, 67:79--87, 2013.
+
+\bibitem{tian2013review}
+Wei Tian.
+\newblock A review of sensitivity analysis methods in building energy analysis.
+\newblock {\em Renewable and Sustainable Energy Reviews}, 20:411--419, 2013.
+
+\bibitem{oldewurtel2012use}
+Frauke Oldewurtel, Alessandra Parisio, Colin~N Jones, Dimitrios Gyalistras,
+  Markus Gwerder, Vanessa Stauch, Beat Lehmann, and Manfred Morari.
+\newblock Use of model predictive control and weather forecasts for energy
+  efficient building climate control.
+\newblock {\em Energy and Buildings}, 45:15--27, 2012.
+
+\bibitem{oldewurtel2010energy}
+Frauke Oldewurtel, Alessandra Parisio, Colin~N Jones, Manfred Morari, Dimitrios
+  Gyalistras, Markus Gwerder, Vanessa Stauch, Beat Lehmann, and Katharina
+  Wirth.
+\newblock Energy efficient building climate control using stochastic model
+  predictive control and weather predictions.
+\newblock In {\em American control conference (ACC), 2010}, pages 5100--5105.
+  IEEE, 2010.
+
+\bibitem{oldewurtel2014stochastic}
+Frauke Oldewurtel, Colin~Neil Jones, Alessandra Parisio, and Manfred Morari.
+\newblock Stochastic model predictive control for building climate control.
+\newblock {\em IEEE Transactions on Control Systems Technology},
+  22(3):1198--1205, 2014.
+
+\bibitem{privara2011model}
+Samuel Privara, Jan {\v{S}}irok{\`y}, Luk{\'a}{\v{s}} Ferkl, and
+  Ji{\v{r}}{\'\i} Cigler.
+\newblock Model predictive control of a building heating system: The first
+  experience.
+\newblock {\em Energy and Buildings}, 43(2):564--572, 2011.
+
+\bibitem{kim2013building}
+Sean~Hay Kim.
+\newblock Building demand-side control using thermal energy storage under
+  uncertainty: An adaptive multiple model-based predictive control (mmpc)
+  approach.
+\newblock {\em Building and Environment}, 67:111--128, 2013.
+
+\bibitem{maasoumy2014handling}
+Mehdi Maasoumy, M~Razmara, M~Shahbakhti, and A~Sangiovanni Vincentelli.
+\newblock Handling model uncertainty in model predictive control for energy
+  efficient buildings.
+\newblock {\em Energy and Buildings}, 77:377--392, 2014.
+
+\bibitem{Mukherjee_2017}
+Arpan Mukherjee, Rahul Rai, Puneet Singla, Tarunraj Singh, and Abani~K. Patra.
+\newblock Comparison of linearization and graph clustering methods for
+  uncertainty quantification of large scale dynamical systems.
+\newblock {\em International Journal for Uncertainty Quantification},
+  7(1):23--56, 2017.
+
+\bibitem{american90}
+ASHRAE.
+\newblock {\em 90.1-2013 User's Manual}.
+\newblock ASHRAE, 2014.
+
+\bibitem{american20132013}
+ASHRAE(2013).
+\newblock {\em 2013 ASHRAE Handbook: Fundamentals}.
+\newblock ASHRAE, 2013.
+
+\bibitem{fisher1997convective}
+Daniel~E Fisher and Curtis~O Pedersen.
+\newblock Convective heat transfer in building energy and thermal load
+  calculations.
+\newblock Technical report, American Society of Heating, Refrigerating and
+  Air-Conditioning Engineers, Inc., Atlanta, GA (United States), 1997.
+
+\bibitem{doe2016energyplus}
+US~Department of~Energy.
+\newblock Energyplus engineering reference.
+\newblock {\em EnergyPlus Version 8.7 Documentation}, 2016.
+
+\bibitem{winklemann2003underground}
+F~Winklemann.
+\newblock Underground surfaces: How to get better underground surface heat
+  transfer calculations in doe2.1e, 2003.
+
+\bibitem{americanenergy}
+ASHRAE.
+\newblock {\em ANSI/ASHRAE/IES Standard 90.1-2013. Energy Standard for
+  Buildings Except Low-Rise Residential Buildings}.
+\newblock ASHRAE, 2013.
+
+\bibitem{american20152015}
+ASHRAE(2015).
+\newblock {\em 2015 ASHRAE Handbook: Applications}.
+\newblock ASHRAE, 2015.
+
+\bibitem{marion1995user}
+William Marion and Ken Urban.
+\newblock {\em User's Manual for TMY2s: Typical Meteorological Years: Derived
+  from the 1961-1990 National Solar Radiation Data Base}.
+\newblock National Renewable Energy Laboratory, 1995.
+
+\bibitem{perez1990modeling}
+Richard Perez, Pierre Ineichen, Robert Seals, Joseph Michalsky, and Ronald
+  Stewart.
+\newblock Modeling daylight availability and irradiance components from direct
+  and global irradiance.
+\newblock {\em Solar energy}, 44(5):271--289, 1990.
+
+\bibitem{kalman1960new}
+Rudolph~Emil Kalman et~al.
+\newblock A new approach to linear filtering and prediction problems.
+\newblock {\em Journal of basic Engineering}, 82(1):35--45, 1960.
+
+\bibitem{jazwinski2007stochastic}
+Andrew~H Jazwinski.
+\newblock {\em {Stochastic processes and filtering theory}}.
+\newblock Mathematics in Science and Engineering. Elsevier, Burlington, MA,
+  1970.
+
+\bibitem{blondel2008fast}
+Vincent~D Blondel, Jean-Loup Guillaume, Renaud Lambiotte, and Etienne Lefebvre.
+\newblock Fast unfolding of communities in large networks.
+\newblock {\em Journal of statistical mechanics: theory and experiment},
+  2008(10):P10008, 2008.
+
+\bibitem{hirsch2003doe}
+James~J Hirsch et~al.
+\newblock Doe 2.2 building energy use and cost analysis program.
+\newblock {\em See http://www. doe2. com}, 2003.
+
+\bibitem{council2015international}
+Internal~Code Council.
+\newblock International mechanical code.
+\newblock 2015.
+
+\bibitem{resnet2010}
+RESNET.
+\newblock Commercial buildings energy modeling guidelines and procedures, 2010.
+
+\bibitem{siemens2013catalog}
+Inc. Siemens~Industry.
+\newblock Hvac components and controls catalog.
+\newblock 2013.
+
+\bibitem{de2011longitudinal}
+Pieter de~Wilde, Wei Tian, and Godfried Augenbroe.
+\newblock Longitudinal prediction of the operational energy use of buildings.
+\newblock {\em Building and Environment}, 46(8):1670--1680, 2011.
+
+\bibitem{volcano_world}
+Volcano discovery.
+
+\bibitem{volcano_us}
+U.S.~Geological Survey.
+\newblock Volcano hazard programs.
+
+\bibitem{boudon19931984}
+G~Boudon, G~Camus, A~Gourgaud, and J~Lajoie.
+\newblock The 1984 nu{\'e}e-ardente deposits of merapi volcano, central java,
+  indonesia: stratigraphy, textural characteristics, and transport mechanisms.
+\newblock {\em Bulletin of volcanology}, 55(5):327--342, 1993.
+
+\bibitem{petrie1987terrain}
+G~Petrie and TJM Kennie.
+\newblock Terrain modelling in surveying and civil engineering.
+\newblock {\em Computer-aided design}, 19(4):171--187, 1987.
+
+\bibitem{takahashi2000mechanical}
+T~Takahashi and H~Tsujimoto.
+\newblock A mechanical model for merapi-type pyroclastic flow.
+\newblock {\em Journal of Volcanology and Geothermal Research}, 98(1):91--115,
+  2000.
+
+\bibitem{felix2004relation}
+Gwena{\"e}lle F{\'e}lix and Nathalie Thomas.
+\newblock Relation between dry granular flow regimes and morphology of
+  deposits: formation of lev{\'e}es in pyroclastic deposits.
+\newblock {\em Earth and Planetary Science Letters}, 221(1):197--213, 2004.
+
+\bibitem{luhr1981colima}
+James~F Luhr and Ian~SE Carmichael.
+\newblock The colima volcanic complex, mexico: Part ii. late-quaternary cinder
+  cones.
+\newblock {\em Contributions to Mineralogy and Petrology}, 76(2):127--147,
+  1981.
+
+\bibitem{rueda2005erupciones}
+H~Rueda.
+\newblock {\em Erupciones plinianas del Holoceno en el Volc{\'a}n Cerro
+  Mach{\'\i}n, Colombia. Estratigraf{\'\i}a, petrograf{\'\i}a y din{\'a}mica
+  eruptiva}.
+\newblock PhD thesis, MSc Thesis, Universidad Nacional Aut{\'o}noma de
+  M{\'e}xico, M{\'e}xico DF, 118p, 2005.
+
+\bibitem{voight2013galeras}
+Barry Voight and Marta~L Calvache.
+\newblock Galeras volcano, colombia.
+\newblock In {\em Encyclopedia of Natural Hazards}, pages 369--377. Springer,
+  2013.
+
+\bibitem{volcano_helens}
+U.S.~Geological Survey.
+\newblock The climactic eruption of may 18, 1980.
+
+\bibitem{wiki_merapi}
+Wikipedia.
+\newblock 2010 eruptions of mount merapi.
+
+\bibitem{charbonnier2013evaluation}
+Sylvain~J Charbonnier, Aurelie Germa, Chuck~B Connor, Ralf Gertisser, Katie
+  Preece, J-C Komorowski, Frank Lavigne, Tim Dixon, and Laura Connor.
+\newblock Evaluation of the impact of the 2010 pyroclastic density currents at
+  merapi volcano from high-resolution satellite imagery, field investigations
+  and numerical simulations.
+\newblock {\em Journal of Volcanology and Geothermal Research}, 261:295--315,
+  2013.
+
+\bibitem{jousset20122010}
+Philippe Jousset, John Pallister, Marie Boichu, M~Fabrizia Buongiorno, Agus
+  Budisantoso, Fidel Costa, Supriyati Andreastuti, Fred Prata, David Schneider,
+  Lieven Clarisse, et~al.
+\newblock The 2010 explosive eruption of java's merapi volcano—a
+  ‘100-year’event.
+\newblock {\em Journal of volcanology and geothermal research}, 241:121--135,
+  2012.
+
+\bibitem{thouret114surono}
+JC~Thouret, A~Gupta, G~Lube, Soo~Chin Liew, and SJ~Cronin.
+\newblock Surono (2010) the 2006 pyroclastic deposits of merapi volcano, java,
+  indonesia: high-spatial resolution ikonos images and complementary ground
+  based observations.
+\newblock {\em Remote sensing of environment}, 114(9):1949--1967.
+
+\bibitem{mitasova1996modelling}
+Helena Mitasova, Jaroslav Hofierka, Maros Zlocha, and Louis~R Iverson.
+\newblock Modelling topographic potential for erosion and deposition using gis.
+\newblock {\em International Journal of Geographical Information Systems},
+  10(5):629--641, 1996.
+
+\bibitem{jibson2000method}
+Randall~W Jibson, Edwin~L Harp, and John~A Michael.
+\newblock A method for producing digital probabilistic seismic landslide hazard
+  maps.
+\newblock {\em Engineering Geology}, 58(3):271--289, 2000.
+
+\bibitem{somerville1997modification}
+Paul~G Somerville, Nancy~F Smith, Robert~W Graves, and Norman~A Abrahamson.
+\newblock Modification of empirical strong ground motion attenuation relations
+  to include the amplitude and duration effects of rupture directivity.
+\newblock {\em Seismological Research Letters}, 68(1):199--222, 1997.
+
+\bibitem{bonadonna2005probabilistic}
+Costanza Bonadonna, Charles~B Connor, BF~Houghton, Laura Connor, M~Byrne,
+  A~Laing, and TK~Hincks.
+\newblock Probabilistic modeling of tephra dispersal: Hazard assessment of a
+  multiphase rhyolitic eruption at tarawera, new zealand.
+\newblock {\em Journal of Geophysical Research: Solid Earth}, 110(B3), 2005.
+
+\bibitem{heuvelink1998error}
+Gerard~BM Heuvelink.
+\newblock {\em Error propagation in environmental modelling with GIS}.
+\newblock CRC Press, 1998.
+
+\bibitem{oksanen2005error}
+Juha Oksanen and Tapani Sarjakoski.
+\newblock Error propagation of dem-based surface derivatives.
+\newblock {\em Computers \& Geosciences}, 31(8):1015--1027, 2005.
+
+\bibitem{oksanen2006digital}
+Juha Oksanen et~al.
+\newblock Digital elevation model error in terrain analysis.
+\newblock 2006.
+
+\bibitem{weng2002quantifying}
+Qihao Weng.
+\newblock Quantifying uncertainty of digital elevation models derived from
+  topographic maps.
+\newblock In {\em Advances in spatial data handling}, pages 403--418. Springer,
+  2002.
+
+\bibitem{savage1989motion}
+St~B Savage and K~Hutter.
+\newblock The motion of a finite mass of granular material down a rough
+  incline.
+\newblock {\em Journal of fluid mechanics}, 199:177--215, 1989.
+
+\bibitem{patra2005parallel}
+Abani~K Patra, AC~Bauer, CC~Nichita, E~Bruce Pitman, MF~Sheridan, M~Bursik,
+  B~Rupp, A~Webber, AJ~Stinton, LM~Namikawa, et~al.
+\newblock Parallel adaptive numerical simulation of dry avalanches over natural
+  terrain.
+\newblock {\em Journal of Volcanology and Geothermal Research}, 139(1):1--21,
+  2005.
+
+\bibitem{SHERIDAN200589}
+MF~Sheridan, AJ~Stinton, A~Patra, EB~Pitman, A~Bauer, and CC~Nichita.
+\newblock Evaluating titan2d mass-flow model using the 1963 little tahoma peak
+  avalanches, mount rainier, washington.
+\newblock {\em Journal of Volcanology and Geothermal Research}, 139(1):89 --
+  102, 2005.
+
+\bibitem{harten1983upstream}
+Amiram Harten, Peter~D Lax, and Bram~van Leer.
+\newblock On upstream differencing and godunov-type schemes for hyperbolic
+  conservation laws.
+\newblock {\em SIAM review}, 25(1):35--61, 1983.
+
+\bibitem{laszloffy2000simple}
+Andras Laszloffy, Jingping Long, and Abani~K Patra.
+\newblock Simple data management, scheduling and solution strategies for
+  managing the irregularities in parallel adaptive hp finite element
+  simulations.
+\newblock {\em Parallel Computing}, 26(13):1765--1788, 2000.
+
+\bibitem{patra2003data}
+AK~Patra, A~Laszloffy, and J~Long.
+\newblock Data structures and load balancing for parallel adaptive hp
+  finite-element methods.
+\newblock {\em Computers \& Mathematics with Applications}, 46(1):105--123,
+  2003.
+
+\bibitem{GRASS_GIS_software}
+{GRASS Development Team}.
+\newblock {\em Geographic Resources Analysis Support System (GRASS GIS)
+  Software, Version 7.2}.
+\newblock Open Source Geospatial Foundation, 2017.
+
+\bibitem{ehlschlaeger1994uncertainty}
+Charles~R Ehlschlaeger and Michael~F Goodchild.
+\newblock Uncertainty in spatial data: defining, visualizing, and managing data
+  errors.
+\newblock In {\em Proceedings of GIS/LIS}, pages 246--253, 1994.
+
+\bibitem{stefanescu2012digital}
+ER~Stefanescu, M~Bursik, G~Cordoba, K~Dalbey, MD~Jones, AK~Patra, DC~Pieri,
+  EB~Pitman, and MF~Sheridan.
+\newblock Digital elevation model uncertainty and hazard analysis using a
+  geophysical flow model.
+\newblock In {\em Proc. R. Soc. A}, volume 468, pages 1543--1563. The Royal
+  Society, 2012.
+
+\bibitem{roberts2003random}
+John~Brian Roberts and Pol~D Spanos.
+\newblock {\em Random vibration and statistical linearization}.
+\newblock Courier Corporation, 2003.
+
+\bibitem{banaszuk2011scalable}
+Andrzej Banaszuk, Vladimir~A Fonoberov, Thomas~A Frewen, Marin Kobilarov,
+  George Mathew, Igor Mezic, Alessandro Pinto, Tuhin Sahai, Harshad Sane,
+  Alberto Speranzon, et~al.
+\newblock Scalable approach to uncertainty quantification and robust design of
+  interconnected dynamical systems.
+\newblock {\em Annual Reviews in Control}, 35(1):77--98, 2011.
+
+\bibitem{xie2013overlapping}
+Jierui Xie, Stephen Kelley, and Boleslaw~K Szymanski.
+\newblock Overlapping community detection in networks: The state-of-the-art and
+  comparative study.
+\newblock {\em Acm computing surveys (csur)}, 45(4):43, 2013.
+
+\bibitem{Mukherjee_2017overlap}
+Arpan Mukherjee, Rahul Rai, Puneet Singla, Tarunraj Singh, and Abani~K. Patra.
+\newblock Overlapping clustering based technique for uncertainty quantification
+  in high dimensional dynamical systems.
+\newblock {\em Journal of Computation Physics (\textit{submitted})}.
+
+\bibitem{atkinson2009numerical}
+Kendall Atkinson and Weimin Han.
+\newblock Numerical solution of fredholm integral equations of the second kind.
+\newblock {\em Theoretical Numerical Analysis}, pages 473--549, 2009.
+
+\bibitem{hansen1992numerical}
+Per~Christian Hansen.
+\newblock Numerical tools for analysis and solution of fredholm integral
+  equations of the first kind.
+\newblock {\em Inverse problems}, 8(6):849, 1992.
+
+\bibitem{rupp2003colima}
+B~Rupp, M~Bursik, A~Patra, B~Pitman, A~Bauer, C~Nichita, R~Saucedo, and
+  J~Macias.
+\newblock Simulation of pyroclastic flows of colima volcano, mexico, using the
+  titan2d program.
+\newblock In {\em EGS-AGU-EUG Joint Assembly}, 2003.
+
+\bibitem{pitman2003computing}
+E~Bruce Pitman, C~Camil Nichita, Abani Patra, Andy Bauer, Michael Sheridan, and
+  Marcus Bursik.
+\newblock Computing granular avalanches and landslides.
+\newblock {\em Physics of fluids}, 15(12):3638--3646, 2003.
+
+\bibitem{rupp2006colima}
+Byron Rupp, Marcus Bursik, Laercio Namikawa, Amy Webb, Abani~K Patra, Ricardo
+  Saucedo, Jos{\'e}~Luis Mac{\'\i}as, and Chris Renschler.
+\newblock Computational modeling of the 1991 block and ash flows at colima
+  volcano, mexico.
+\newblock {\em Geological Society of America Special Papers}, 402:237--252,
+  2006.
+
+\bibitem{benson2015tensor}
+Austin~R Benson, David~F Gleich, and Jure Leskovec.
+\newblock Tensor spectral clustering for partitioning higher-order network
+  structures.
+\newblock In {\em Proceedings of the 2015 SIAM International Conference on Data
+  Mining}, pages 118--126. SIAM, 2015.
+
+\bibitem{shashua2005non}
+Amnon Shashua and Tamir Hazan.
+\newblock Non-negative tensor factorization with applications to statistics and
+  computer vision.
+\newblock In {\em Proceedings of the 22nd international conference on Machine
+  learning}, pages 792--799. ACM, 2005.
+
+\bibitem{huang2013fast}
+Furong Huang, UN~Niranjan, Mohammad~Umar Hakeem, and Animashree Anandkumar.
+\newblock Fast detection of overlapping communities via online tensor methods.
+\newblock {\em arXiv preprint arXiv:1309.0787}, 2013.
+
+\end{thebibliography}

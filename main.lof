@@ -1,0 +1,72 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Propagation of uncertainty via large dynamical system\relax }}{2}{figure.caption.5}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Modeling of the stochastic nonlinear system as an undirected graph\relax }}{3}{figure.caption.6}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Clustering of state variable and propagation of individual clusters in parallel\relax }}{6}{figure.caption.7}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Use of overlapping clusters of state variable for propagation of individual clusters in parallel. The third step shows mapping of overlapping variables to non-overlapping clusters.\relax }}{9}{figure.caption.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Schematic of Monte Carlo simulation based UQ method applied on an ODE\relax }}{17}{figure.caption.9}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Error in Sampling by Monte Carlo sampling with dimension $n$ on (a) log scale and (b) linear scale\relax }}{18}{figure.caption.10}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Number of Collocation Points vs Dimension $n$ for different values of $d$ in Equation\nobreakspace {}\ref {mce_nd} using Gauss-Hermite class of Orthogonal Polynomial\relax }}{21}{figure.caption.13}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Number of Collocation Points vs Dimension $n$ for different values of $d$ in Equation\nobreakspace {}\ref {mce_sparse} using Gauss-Hermite class of Orthogonal Polynomial\relax }}{23}{figure.caption.14}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Working of the Unscented Transformation\relax }}{25}{figure.caption.16}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Determination of Weakly Coupled Subsystems (WCSs): Flowchart explaining the framework for linearization and clustering procedure followed by effective UQ\relax }}{28}{figure.caption.17}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Setup for Time-Domain and Space-Domain Linearization\relax }}{32}{figure.caption.18}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Plot of Eigenvector Matrix of $W_t$ for a WCS at different time instance\relax }}{36}{figure.caption.19}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Organized plot of Eigenvector Matrix of $W_t$ for a WCS at different time instance\relax }}{37}{figure.caption.20}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Comparison between Jacobian-based linearization matrix and Statistical linearization matrix\relax }}{41}{figure.caption.21}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Comparison between propagation of Jacobian-based linearization and Statistical linearization\relax }}{42}{figure.caption.22}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Schematic of Spectral Clustering: (a) shows a typical adjacency matrix comprising of discernible blocks (b) shows the eigenvalue plot of the symmetric normalized Laplacian for the corresponding adjacency and (c) shows the cluster structure derived from the eigenvector of the corresponding zero eigenvalues\relax }}{49}{figure.caption.23}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Probabilistic Graphical Model for the Bayesian NMF framework\relax }}{52}{figure.caption.24}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Example of 10-dimensional informed agent system. The system comprises of subsystems of 3-4 states which are diffusively coupled\relax }}{59}{figure.caption.27}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Propagation of 10-dimensional coupled system with different values of $\epsilon $\relax }}{60}{figure.caption.28}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Propagation of the coupled linear system for different size of problems\relax }}{62}{figure.caption.30}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Variation in $A_{sl}$ of 10-dimensional coupled oscillator system with different values of $\alpha $\relax }}{65}{figure.caption.31}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Comparison of Original System propagation with that obtained from the two clustered model for Weakly coupled Van der Pol Oscillators after filtering\relax }}{72}{figure.caption.35}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Overall Framework of the methodology\relax }}{77}{figure.caption.37}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Overall Framework of the Type I method of clustering: (a) Overall state-space domain (b) Identification of overlapping clusters (common states encircled) and (c) States being mapped to non-overlapping clusters with common states participating in more than one cluster with same initial condition.\relax }}{81}{figure.caption.39}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Overall Framework of the Type II method of clustering: (a) Overall state-space domain (b) Identification of overlapping clusters (common states encircled) and (c) Identification of \textit {Strong} and \textit {Weak Participants}. \textit {Weak Participants} acting as constant input.\relax }}{83}{figure.caption.40}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Overall Framework of the Type III method of clustering: (a) Overall state-space domain (b) Identification of overlapping clusters (common states encircled) and (c) Identification of non-overlapping clusters\relax }}{84}{figure.caption.41}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Dimension $n= 9$, coupling strength $\epsilon = 1$\relax }}{97}{figure.caption.47}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Schematic of the Tidal Water Flow\relax }}{104}{figure.caption.51}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Comparison of different clustering types for a deterministic test case\relax }}{108}{figure.caption.52}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Rate of Convergence vs Discretization Resolution\relax }}{112}{figure.caption.53}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Variation of Cluster length with varying spatial discretization and constant temporal discretization of $\bigtriangleup t = 300$s\relax }}{113}{figure.caption.54}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Variation of Cluster length with constant spatial discretization $N = 80$ and varying temporal discretization\relax }}{114}{figure.caption.55}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Cluster Length vs Discretization Resolution\relax }}{115}{figure.caption.56}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Mean of the Bathymetric profile\relax }}{116}{figure.caption.57}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Trend of Eigenvalue for exponential covariance function with $a = 0.1L$\relax }}{117}{figure.caption.58}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Cluster Structure for Shallow Water Model for uncertain bathymetry\relax }}{119}{figure.caption.59}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Eigenvalue plot for the bathymetry random field clustered into 5 overlapping fields\relax }}{120}{figure.caption.60}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Results of the filtering problem. The noise is filtered out with availability of measurement\relax }}{121}{figure.caption.61}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Schematic of the WCS identification-based UQ to estimate thermal load in a large-scale BEM. Weather Map\nobreakspace {}\citep {weathermap}\relax }}{132}{figure.caption.62}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces RC network for surface constructions\relax }}{134}{figure.caption.63}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Modified RC network for underground surfaces\relax }}{138}{figure.caption.64}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Schematic of College/University building in Central New York used for creating the case study BEM\relax }}{145}{figure.caption.65}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Second Floor Thermal Zones of the BEM\relax }}{146}{figure.caption.66}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Schematic for calculation of building energy\relax }}{148}{figure.caption.68}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Normalized Adjacency Information for (a) Zone 1, (b) Zone 47, (c) Zone 80 and (d) Zone 97\relax }}{152}{figure.caption.70}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Adjacency Matrix for Zone 1, Zone 47, Zone 80 and Zone 97 combined \relax }}{153}{figure.caption.71}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Cluster Matrix\relax }}{153}{figure.caption.72}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Plot of error in estimation vs time\relax }}{155}{figure.caption.73}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Estimated Temperature for (a) Zone 1, (b) Zone 47, (c) Zone 80 and (d) Zone 97\relax }}{156}{figure.caption.74}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Estimated Internal Thermal Load for (a) Zone 1, (b) Zone 47, (c) Zone 80 and (d) Zone 97 for the month of February\relax }}{157}{figure.caption.75}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Estimated Internal Thermal Load for (a) Zone 1, (b) Zone 47, (c) Zone 80 and (d) Zone 97 for the month of June\relax }}{158}{figure.caption.76}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Estimated Internal Thermal Load for (a) Zone 1, (b) Zone 47, (c) Zone 80 and (d) Zone 97 for the month of October\relax }}{159}{figure.caption.77}
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Solar Gains for (a) Zone 47 and (b) Zone 97 for the month of February\relax }}{160}{figure.caption.78}
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Solar Gains for (a) Zone 47 and (b) Zone 97 for the month of June\relax }}{160}{figure.caption.79}
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Solar Gains for (a) Zone 47 and (b) Zone 97 for the month of October\relax }}{161}{figure.caption.80}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Schematic of the SCS identification-based UQ to estimate PHM for geophysical mass flow using Titan2D\relax }}{166}{figure.caption.81}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces $\textbf {X}$: Grid representation of DEM\relax }}{169}{figure.caption.82}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Grid to Vectorization of $\textbf {X}$\relax }}{171}{figure.caption.83}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Geographic region of Volcan de Colima, showing the (a) control region and initial pile deposit location and (b) the elevation profile of the control region.\relax }}{178}{figure.caption.84}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Adjacency Matrix for Volcan de Colima using different resolutions of discretization.\relax }}{179}{figure.caption.85}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Cluster structure for Volcan de Colima using different resolutions of discretization.\relax }}{180}{figure.caption.86}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Mean Pile height at different time instance\relax }}{181}{figure.caption.87}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Mean Pile height at different time instance\relax }}{182}{figure.caption.88}
+\addvspace {10\p@ }

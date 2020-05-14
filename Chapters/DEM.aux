@@ -1,0 +1,148 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\citation{volcano_world,volcano_us}
+\citation{boudon19931984,petrie1987terrain,takahashi2000mechanical,felix2004relation}
+\citation{luhr1981colima,rueda2005erupciones,voight2013galeras,volcano_helens}
+\citation{wiki_merapi}
+\citation{charbonnier2013evaluation,jousset20122010,thouret114surono}
+\citation{mitasova1996modelling}
+\@writefile{toc}{\contentsline {chapter}{\numberline {6}Effect of Digital Elevation Model (DEM) Uncertainty on Geophysical Mass Flow via Identification of Strongly Coupled Subsystem}{163}{chapter..6}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{chap:dem}{{6}{163}{Effect of Digital Elevation Model (DEM) Uncertainty on Geophysical Mass Flow via Identification of Strongly Coupled Subsystem}{chapter..6}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.1}Introduction}{163}{section..6.1}}
+\newlabel{introduction}{{6.1}{163}{Introduction}{section..6.1}{}}
+\citation{jibson2000method}
+\citation{somerville1997modification}
+\citation{bonadonna2005probabilistic}
+\citation{heuvelink1998error}
+\citation{oksanen2005error,oksanen2006digital}
+\citation{weng2002quantifying}
+\citation{savage1989motion}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.1}{\ignorespaces Schematic of the SCS identification-based UQ to estimate PHM for geophysical mass flow using Titan2D\relax }}{166}{figure.caption.81}}
+\newlabel{fig:scs_titan}{{6.1}{166}{Schematic of the SCS identification-based UQ to estimate PHM for geophysical mass flow using Titan2D\relax }{figure.caption.81}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.2}Governing Equations}{167}{section..6.2}}
+\newlabel{governing}{{6.2}{167}{Governing Equations}{section..6.2}{}}
+\newlabel{main_eq}{{6.1}{167}{Governing Equations}{equation..6.2.1}{}}
+\newlabel{defs}{{6.2}{167}{Governing Equations}{equation..6.2.2}{}}
+\citation{patra2005parallel,SHERIDAN200589}
+\citation{harten1983upstream}
+\citation{laszloffy2000simple,patra2003data}
+\citation{GRASS_GIS_software}
+\citation{petrie1987terrain}
+\citation{ehlschlaeger1994uncertainty,stefanescu2012digital}
+\@writefile{toc}{\contentsline {section}{\numberline {6.3}Generating High Resolution Random Samples of the DEM}{169}{section..6.3}}
+\newlabel{highres}{{6.3}{169}{Generating High Resolution Random Samples of the DEM}{section..6.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.2}{\ignorespaces $\textbf  {X}$: Grid representation of DEM\relax }}{169}{figure.caption.82}}
+\newlabel{grid_dem}{{6.2}{169}{$\textbf {X}$: Grid representation of DEM\relax }{figure.caption.82}{}}
+\citation{Mukherjee_2017,roberts2003random,banaszuk2011scalable}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.3.1}Uncertainty Modeling of the DEM}{170}{subsection..6.3.1}}
+\newlabel{dem:uncertainty_model}{{6.3.1}{170}{Uncertainty Modeling of the DEM}{subsection..6.3.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.3.2}Adjacency Matrix and Clustering of Spatial Domain}{170}{subsection..6.3.2}}
+\newlabel{dem_adjacency}{{6.3.2}{170}{Adjacency Matrix and Clustering of Spatial Domain}{subsection..6.3.2}{}}
+\newlabel{mde}{{6.6}{170}{Adjacency Matrix and Clustering of Spatial Domain}{equation..6.3.6}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.3}{\ignorespaces Grid to Vectorization of $\textbf  {X}$\relax }}{171}{figure.caption.83}}
+\newlabel{grid_vec}{{6.3}{171}{Grid to Vectorization of $\textbf {X}$\relax }{figure.caption.83}{}}
+\newlabel{ode}{{6.7}{171}{Adjacency Matrix and Clustering of Spatial Domain}{equation..6.3.7}{}}
+\citation{xie2013overlapping}
+\citation{blondel2008fast}
+\newlabel{adj_mat}{{6.10}{172}{Adjacency Matrix and Clustering of Spatial Domain}{equation..6.3.10}{}}
+\newlabel{louvain}{{6.11}{172}{Adjacency Matrix and Clustering of Spatial Domain}{equation..6.3.11}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.3.3}Random Sampling and Propagation}{172}{subsection..6.3.3}}
+\citation{Mukherjee_2017overlap}
+\newlabel{hadprod}{{6.12}{173}{Random Sampling and Propagation}{equation..6.3.12}{}}
+\newlabel{had_prod}{{6.14}{173}{Random Sampling and Propagation}{equation..6.3.14}{}}
+\newlabel{scs_def}{{6.15}{173}{Random Sampling and Propagation}{equation..6.3.15}{}}
+\citation{ghanem2003stochastic}
+\citation{ghanem2003stochastic}
+\citation{atkinson2009numerical,hansen1992numerical}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.3.4}Sampling of a Zone}{174}{subsection..6.3.4}}
+\newlabel{cov_int}{{6.17}{174}{Sampling of a Zone}{equation..6.3.17}{}}
+\newlabel{kl_full}{{6.19}{174}{Sampling of a Zone}{equation..6.3.19}{}}
+\newlabel{kl_trunc}{{6.20}{174}{Sampling of a Zone}{equation..6.3.20}{}}
+\newlabel{cov_mat}{{6.22}{175}{Sampling of a Zone}{equation..6.3.22}{}}
+\citation{iman2008latin}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {2}{\ignorespaces Clustering of DEM using SCS and Propagation\relax }}{176}{algorithm.2}}
+\newlabel{sample_dem}{{2}{176}{Clustering of DEM using SCS and Propagation\relax }{algorithm.2}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.4}Generation of Realizations via Sampling Scheme}{176}{section..6.4}}
+\newlabel{dem:uncertainty}{{6.4}{176}{Generation of Realizations via Sampling Scheme}{section..6.4}{}}
+\newlabel{dem_monte_int}{{6.23}{176}{Generation of Realizations via Sampling Scheme}{equation..6.4.23}{}}
+\citation{luhr1981colima}
+\citation{rupp2003colima,pitman2003computing,rupp2006colima}
+\@writefile{toc}{\contentsline {section}{\numberline {6.5}Volcanic Locations}{177}{section..6.5}}
+\newlabel{volcanic_location}{{6.5}{177}{Volcanic Locations}{section..6.5}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.5.1}Colima}{177}{subsection..6.5.1}}
+\newlabel{colima_1}{{6.4a}{178}{\relax }{figure.caption.84}{}}
+\newlabel{sub@colima_1}{{a}{178}{\relax }{figure.caption.84}{}}
+\newlabel{colima_2}{{6.4b}{178}{\relax }{figure.caption.84}{}}
+\newlabel{sub@colima_2}{{b}{178}{\relax }{figure.caption.84}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.4}{\ignorespaces Geographic region of Volcan de Colima, showing the (a) control region and initial pile deposit location and (b) the elevation profile of the control region.\relax }}{178}{figure.caption.84}}
+\newlabel{fig:colima}{{6.4}{178}{Geographic region of Volcan de Colima, showing the (a) control region and initial pile deposit location and (b) the elevation profile of the control region.\relax }{figure.caption.84}{}}
+\newlabel{colima_adjacency_300}{{6.5a}{179}{Adjacency with 300 m resolution\relax }{figure.caption.85}{}}
+\newlabel{sub@colima_adjacency_300}{{a}{179}{Adjacency with 300 m resolution\relax }{figure.caption.85}{}}
+\newlabel{colima_adjacency_225}{{6.5b}{179}{Adjacency with 225 m resolution\relax }{figure.caption.85}{}}
+\newlabel{sub@colima_adjacency_225}{{b}{179}{Adjacency with 225 m resolution\relax }{figure.caption.85}{}}
+\newlabel{colima_adjacency_150}{{6.5c}{179}{Adjacency with 150 m resolution\relax }{figure.caption.85}{}}
+\newlabel{sub@colima_adjacency_150}{{c}{179}{Adjacency with 150 m resolution\relax }{figure.caption.85}{}}
+\newlabel{colima_adjacency_100}{{6.5d}{179}{Adjacency with 100 m resolution\relax }{figure.caption.85}{}}
+\newlabel{sub@colima_adjacency_100}{{d}{179}{Adjacency with 100 m resolution\relax }{figure.caption.85}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.5}{\ignorespaces Adjacency Matrix for Volcan de Colima using different resolutions of discretization.\relax }}{179}{figure.caption.85}}
+\newlabel{fig:colima_adjacency}{{6.5}{179}{Adjacency Matrix for Volcan de Colima using different resolutions of discretization.\relax }{figure.caption.85}{}}
+\newlabel{colima_cluster_300}{{6.6a}{180}{Cluster structure with 300 m resolution\relax }{figure.caption.86}{}}
+\newlabel{sub@colima_cluster_300}{{a}{180}{Cluster structure with 300 m resolution\relax }{figure.caption.86}{}}
+\newlabel{colima_cluster_225}{{6.6b}{180}{Cluster structure with 225 m resolution\relax }{figure.caption.86}{}}
+\newlabel{sub@colima_cluster_225}{{b}{180}{Cluster structure with 225 m resolution\relax }{figure.caption.86}{}}
+\newlabel{colima_cluster_150}{{6.6c}{180}{Cluster structure with 150 m resolution\relax }{figure.caption.86}{}}
+\newlabel{sub@colima_cluster_150}{{c}{180}{Cluster structure with 150 m resolution\relax }{figure.caption.86}{}}
+\newlabel{colima_cluster_100}{{6.6d}{180}{Cluster structure with 100 m resolution\relax }{figure.caption.86}{}}
+\newlabel{sub@colima_cluster_100}{{d}{180}{Cluster structure with 100 m resolution\relax }{figure.caption.86}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.6}{\ignorespaces Cluster structure for Volcan de Colima using different resolutions of discretization.\relax }}{180}{figure.caption.86}}
+\newlabel{fig:colima_cluster}{{6.6}{180}{Cluster structure for Volcan de Colima using different resolutions of discretization.\relax }{figure.caption.86}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.7}{\ignorespaces Mean Pile height at different time instance\relax }}{181}{figure.caption.87}}
+\newlabel{fig:colima_simulate}{{6.7}{181}{Mean Pile height at different time instance\relax }{figure.caption.87}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.8}{\ignorespaces Mean Pile height at different time instance\relax }}{182}{figure.caption.88}}
+\newlabel{fig:colima_error}{{6.8}{182}{Mean Pile height at different time instance\relax }{figure.caption.88}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.6}Summary}{182}{section..6.6}}
+\citation{stroud1971approximate}
+\citation{benson2015tensor,shashua2005non,huang2013fast}
+\@setckpt{Chapters/DEM}{
+\setcounter{page}{184}
+\setcounter{equation}{24}
+\setcounter{enumi}{3}
+\setcounter{enumii}{5}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{0}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{6}
+\setcounter{section}{6}
+\setcounter{subsection}{0}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{8}
+\setcounter{table}{0}
+\setcounter{lofdepth}{1}
+\setcounter{lotdepth}{1}
+\setcounter{parentequation}{0}
+\setcounter{ContinuedFloat}{0}
+\setcounter{subfigure}{4}
+\setcounter{subtable}{0}
+\setcounter{NAT@ctr}{0}
+\setcounter{LT@tables}{0}
+\setcounter{LT@chunks}{0}
+\setcounter{float@type}{8}
+\setcounter{algorithm}{2}
+\setcounter{ALG@line}{9}
+\setcounter{ALG@rem}{9}
+\setcounter{ALG@nested}{0}
+\setcounter{ALG@Lnr}{2}
+\setcounter{ALG@blocknr}{10}
+\setcounter{ALG@storecount}{0}
+\setcounter{ALG@tmpcounter}{0}
+\setcounter{Item}{49}
+\setcounter{Hfootnote}{0}
+\setcounter{bookmark@seq@number}{94}
+\setcounter{section@level}{1}
+}

@@ -1,0 +1,30 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces List of some standard UQ methods\relax }}{18}{table.caption.11}
+\contentsline {table}{\numberline {2.2}{\ignorespaces 1D Gauss Quadrature polynomials\relax }}{20}{table.caption.12}
+\contentsline {table}{\numberline {2.3}{\ignorespaces Cubature formula with weight function $\qopname \relax o{exp}(-\textbf {x}^T\textbf {x})$, $\textbf {x} \in \PazoBB {R}^n$\relax }}{24}{table.caption.15}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Techniques of Linearization and Clustering\relax }}{57}{table.caption.25}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Factors and levels of experiment\relax }}{58}{table.caption.26}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Dimension of overall system, number of subsystems, and the number of clusters identified by the different clustering techniques\relax }}{61}{table.caption.29}
+\contentsline {table}{\numberline {3.4}{\ignorespaces RMS \textit {time-averaged} mean and \textit {time-averaged} covariance for different test setups in Weakly Coupled Van der Pol Oscillators\relax }}{66}{table.caption.32}
+\contentsline {table}{\numberline {3.5}{\ignorespaces RMS \textit {time-averaged} mean and \textit {time-averaged} covariance for different test setups in Weakly Coupled Lorenz Attractors\relax }}{68}{table.caption.33}
+\contentsline {table}{\numberline {3.6}{\ignorespaces ANOVA Table for the test of Hypothesis\relax }}{69}{table.caption.34}
+\contentsline {table}{\numberline {3.7}{\ignorespaces Error in Filtering for Weakly Coupled Van der Pol Oscillators\relax }}{71}{table.caption.36}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces The association values $z_{ij}$ tabulated in the matrix form\relax }}{79}{table.caption.38}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Initial $Z$ matrix for Problem Statement in Equation\nobreakspace {}(\ref {2d_lorenz})\relax }}{92}{table.caption.42}
+\contentsline {table}{\numberline {4.3}{\ignorespaces State Space cluster for Type I method\relax }}{93}{table.caption.43}
+\contentsline {table}{\numberline {4.4}{\ignorespaces State Space cluster for Type II method\relax }}{94}{table.caption.44}
+\contentsline {table}{\numberline {4.5}{\ignorespaces $Z_s$ matrix for Type II method\relax }}{95}{table.caption.45}
+\contentsline {table}{\numberline {4.6}{\ignorespaces State Space cluster for Type I method\relax }}{96}{table.caption.46}
+\contentsline {table}{\numberline {4.7}{\ignorespaces RMS \textit {time-averaged} mean for different test setups in Coupled Lorenz Oscillators\relax }}{99}{table.caption.48}
+\contentsline {table}{\numberline {4.8}{\ignorespaces RMS \textit {time-averaged} mean for different test setups in Coupled Van der Pol Oscillators\relax }}{101}{table.caption.49}
+\contentsline {table}{\numberline {4.9}{\ignorespaces RMS \textit {time-averaged} mean for different test setups in Coupled Rossler Oscillators\relax }}{103}{table.caption.50}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces BEM Inputs per Zone - Conduction through Surfaces Only\relax }}{147}{table.caption.67}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Fan Coil Unit Control Points \relax }}{149}{table.caption.69}
+\addvspace {10\p@ }
+\addvspace {10\p@ }

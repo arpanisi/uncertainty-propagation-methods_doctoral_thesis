@@ -1,0 +1,151 @@
+\documentclass[phd,12pt]{psuthesis}
+
+% Declaration of all the packages used
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{exscale}
+\usepackage[mathscr]{eucal}
+\usepackage{bm}
+\usepackage{eqlist} % Makes for a nice list of symbols.
+\usepackage[final]{graphicx}
+\usepackage{subcaption}
+\usepackage[dvipsnames]{color}
+\DeclareGraphicsExtensions{.pdf, .jpg, .png}
+\usepackage{natbib}
+\usepackage{har2nat}
+\usepackage{verbatim}
+\usepackage{url}
+\usepackage{longtable}
+\usepackage{mathpazo}
+\usepackage{pstricks}
+\usepackage{sgamevar}
+\usepackage{slashbox}
+\usepackage{multirow}
+\usepackage{egameps}
+\def\citeapos#1{\citeauthor{#1}'s \citeyear{#1}}
+\newenvironment{my_enumerate}
+{\begin{enumerate}
+  \setlength{\itemsep}{1pt}
+  \setlength{\parskip}{0pt}
+  \setlength{\parsep}{0pt}}{\end{enumerate}}
+\newenvironment{my_itemize}
+{\begin{itemize}
+  \setlength{\itemsep}{1pt}
+  \setlength{\parskip}{0pt}
+  \setlength{\parsep}{0pt}}{\end{itemize}}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{tikz}
+\let\clipbox\relax
+\usepackage[export]{adjustbox}
+\usetikzlibrary{shapes.geometric, arrows} %https://www.sharelatex.com/blog/2013/08/29/tikz-series-pt3.html
+\usepackage{xcolor}
+\usetikzlibrary{decorations.pathreplacing}
+\usepackage{bm}
+
+\usepackage[colorlinks=true,urlcolor=purple,citecolor=blue,linkcolor=blue]{hyperref}
+\renewcommand{\theHchapter}{\thepart.\thechapter}
+
+%\input{SupplementaryMaterial/UserDefinedCommands}
+
+\renewcommand{\floatpagefraction}{0.85}
+\renewcommand{\topfraction}      {0.85}
+\renewcommand{\bottomfraction}   {0.85}
+\renewcommand{\textfraction}     {0.15}
+
+\title{Uncertainty Propagation Methods for High-Dimensional Complex Systems}
+\author{Arpan Mukherjee}
+\degreedate{February 2018}
+\copyrightyear{2018}
+
+\documenttype{Dissertation}
+%The department where you will be submitting the document%
+\dept{Department of Mechanical and Aerospace Engineering}
+% This will generally be The Graduate School, though you can
+% put anything in here to suit your needs. This has also been removes from the cover page via the psuthesis.cls document because UB guidelines do not allow for it.
+\submittedto{The Graduate School}
+
+\numberofreaders{4}
+
+\advisor[Thesis Advisor, Chair of Committee]
+        {Rahul Rai}
+        {Associate Professor of Mechanical and Aerospace Engineering}
+
+\readerone[Committee Member]
+          {Puneet Singla}
+          {Associate Professor of Mechanical and Aerospace Engineering}     			
+
+\readertwo[Committee Member]
+          {Tarunraj Singh}
+          {Professor of Mechanical and Aerospace Engineering} 
+
+\readerthree[Committee Member]
+            {Abani Patra}
+            {Professor of Mechanical and Aerospace Engineering} 
+
+\readerfour[Outside Reader]
+            {Anurag Purwar}
+            {Research Associate Professor of Mechanical Engineering \newline Stony Brook University, The State University of New York}
+
+
+\doublespacing
+\includeonly{
+Chapters/Introduction,
+Chapters/UQ,
+Chapters/WCS,
+Chapters/SCS,
+Chapters/Building,
+Chapters/DEM,
+Chapters/Conclusion,
+}
+
+\begin{document}
+\frontmatter
+\psutitlepage
+
+%Generates Copyright Page
+\copyrightpage{SupplementaryMaterial/Copyright}
+
+\newpage
+% Generates the committee page -- this is bound with your
+% thesis. If this is an baccalaureate honors thesis, then
+% comment out this line.
+\psucommitteepage
+
+% Generates the Epigraph/Dedication. The first argument should
+% point to the file containing your Epigraph/Dedication and
+% the second argument should be the title of this page.
+\thesisdedication{SupplementaryMaterial/Dedication}{Dedication}
+
+% Generates the Acknowledgments. The argument should point to
+% the file containing your Acknowledgments.
+\thesisacknowledgments{SupplementaryMaterial/Acknowledgments}
+
+% Generates the Table of Contents
+\thesistableofcontents
+
+% Generates the List of Tables
+\listoftables
+
+% Generates the List of Figures
+\listoffigures
+
+\thesisabstract{SupplementaryMaterial/Abstract}
+
+\thesismainmatter
+
+
+\include{Chapters/Introduction}
+\include{Chapters/UQ}
+\include{Chapters/WCS}
+\include{Chapters/SCS}
+\include{Chapters/Building}
+\include{Chapters/DEM}
+\include{Chapters/Conclusion}
+
+
+\bibliographystyle{unsrt}
+\addcontentsline{toc}{chapter}{Bibliography}
+\bibliography{root,root_2,AllRefs,jbs,dem}
+\end{document}
